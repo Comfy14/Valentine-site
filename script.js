@@ -1,6 +1,6 @@
 const messages = [
     "Esti sigura?",
-    "Chiar vrei??",
+    "Chiar nu vrei??",
     "Nu cred ca ai vrut sa zici asta",
     "Te rog...",
     "Mai gandestete la asta!",
